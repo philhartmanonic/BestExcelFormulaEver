@@ -4,6 +4,7 @@ The formula itself is just a small fraction of the work, as it involved creating
 But this formula is the coup de grace. 
 
 If you're an Excel nerd - enjoy:
+'''
 =IF(
 AND(
 $C$2=0,$D$1="P",$C17<>""),
@@ -153,3 +154,4 @@ $E$1="A3","InvalidMatch","")
 )
 ))
 )
+'''
